@@ -1,0 +1,947 @@
+{
+    "Id": 178,
+    "Title": "Autumn Term By-Election 2023",
+    "Organisation": {
+        "Id": 6013,
+        "Name": "University of Birmingham Guild of Students",
+        "GroupingType": null,
+        "Organisation": null,
+        "FullName": "University of Birmingham Guild of Students"
+    },
+    "Eligible": 41512,
+    "Voters": 0,
+    "NonVoters": 41512,
+    "Votes": 0,
+    "PostCount": 49,
+    "CandidateCount": 41,
+    "IndividualCandidateCount": 29,
+    "DateGenerated": "2023-10-25T10:30:14.7311764+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "16 - 17",
+                    "Voters": 0,
+                    "NonVoters": 278,
+                    "Eligible": 278,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "18 - 21",
+                    "Voters": 0,
+                    "NonVoters": 23476,
+                    "Eligible": 23476,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 0,
+                    "NonVoters": 8564,
+                    "Eligible": 8564,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "26 - 30",
+                    "Voters": 0,
+                    "NonVoters": 3570,
+                    "Eligible": 3570,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "All other values",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": true,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Over 30",
+                    "Voters": 0,
+                    "NonVoters": 5581,
+                    "Eligible": 5581,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Unknown",
+                    "Voters": 0,
+                    "NonVoters": 42,
+                    "Eligible": 42,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": true,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "F",
+                    "Voters": 0,
+                    "NonVoters": 23507,
+                    "Eligible": 23507,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "M",
+                    "Voters": 0,
+                    "NonVoters": 17858,
+                    "Eligible": 17858,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "N",
+                    "Voters": 0,
+                    "NonVoters": 145,
+                    "Eligible": 145,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Research",
+                    "Voters": 0,
+                    "NonVoters": 4202,
+                    "Eligible": 4202,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Postgraduate Taught",
+                    "Voters": 0,
+                    "NonVoters": 10048,
+                    "Eligible": 10048,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 0,
+                    "NonVoters": 27262,
+                    "Eligible": 27262,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 0,
+                    "NonVoters": 17642,
+                    "Eligible": 17642,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 0,
+                    "NonVoters": 9597,
+                    "Eligible": 9597,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 0,
+                    "NonVoters": 9284,
+                    "Eligible": 9284,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 0,
+                    "NonVoters": 3276,
+                    "Eligible": 3276,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "5th year",
+                    "Voters": 0,
+                    "NonVoters": 873,
+                    "Eligible": 873,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "6th year",
+                    "Voters": 0,
+                    "NonVoters": 137,
+                    "Eligible": 137,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "7th year",
+                    "Voters": 0,
+                    "NonVoters": 70,
+                    "Eligible": 70,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "8th year",
+                    "Voters": 0,
+                    "NonVoters": 34,
+                    "Eligible": 34,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "9th year",
+                    "Voters": 0,
+                    "NonVoters": 19,
+                    "Eligible": 19,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Foundation year",
+                    "Voters": 0,
+                    "NonVoters": 580,
+                    "Eligible": 580,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Academic Services",
+                    "Voters": 0,
+                    "NonVoters": 6,
+                    "Eligible": 6,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Accounting",
+                    "Voters": 0,
+                    "NonVoters": 1093,
+                    "Eligible": 1093,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "African Studies & Anthropology",
+                    "Voters": 0,
+                    "NonVoters": 89,
+                    "Eligible": 89,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "All other values",
+                    "Voters": 0,
+                    "NonVoters": 124,
+                    "Eligible": 124,
+                    "IsOtherItem": true,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Art Hist, Cur and Vis Studies",
+                    "Voters": 0,
+                    "NonVoters": 153,
+                    "Eligible": 153,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Bhm Clinical Trial Unit (BCTU)",
+                    "Voters": 0,
+                    "NonVoters": 15,
+                    "Eligible": 15,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Biomedical Sciences",
+                    "Voters": 0,
+                    "NonVoters": 650,
+                    "Eligible": 650,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham Business School",
+                    "Voters": 0,
+                    "NonVoters": 433,
+                    "Eligible": 433,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham International Acad",
+                    "Voters": 0,
+                    "NonVoters": 520,
+                    "Eligible": 520,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham Leadership Inst",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham Medical School",
+                    "Voters": 0,
+                    "NonVoters": 2315,
+                    "Eligible": 2315,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Byzantine, Ottoman, Greek Stud",
+                    "Voters": 0,
+                    "NonVoters": 9,
+                    "Eligible": 9,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "CAL - College Hub",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Chemical Engineering",
+                    "Voters": 0,
+                    "NonVoters": 903,
+                    "Eligible": 903,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Chemistry",
+                    "Voters": 0,
+                    "NonVoters": 582,
+                    "Eligible": 582,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Civil Engineering",
+                    "Voters": 0,
+                    "NonVoters": 563,
+                    "Eligible": 563,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Classics, AH and Archaeology",
+                    "Voters": 0,
+                    "NonVoters": 259,
+                    "Eligible": 259,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Computer Science",
+                    "Voters": 0,
+                    "NonVoters": 2337,
+                    "Eligible": 2337,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "COS - College Hub",
+                    "Voters": 0,
+                    "NonVoters": 20,
+                    "Eligible": 20,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Dental Hygiene and Therapy",
+                    "Voters": 0,
+                    "NonVoters": 82,
+                    "Eligible": 82,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Dentistry",
+                    "Voters": 0,
+                    "NonVoters": 452,
+                    "Eligible": 452,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Disab, Inclusion & Spec Needs",
+                    "Voters": 0,
+                    "NonVoters": 781,
+                    "Eligible": 781,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Drama and Theatre Arts",
+                    "Voters": 0,
+                    "NonVoters": 132,
+                    "Eligible": 132,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Earth and Environ Sciences",
+                    "Voters": 0,
+                    "NonVoters": 508,
+                    "Eligible": 508,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Economics",
+                    "Voters": 0,
+                    "NonVoters": 1446,
+                    "Eligible": 1446,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Education & Social Justice",
+                    "Voters": 0,
+                    "NonVoters": 591,
+                    "Eligible": 591,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Elec, Elec & Sys Engineering",
+                    "Voters": 0,
+                    "NonVoters": 648,
+                    "Eligible": 648,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Eng Lang and Linguistics",
+                    "Voters": 0,
+                    "NonVoters": 475,
+                    "Eligible": 475,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Engineering",
+                    "Voters": 0,
+                    "NonVoters": 249,
+                    "Eligible": 249,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "English Literature",
+                    "Voters": 0,
+                    "NonVoters": 599,
+                    "Eligible": 599,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "EPS - College Hub",
+                    "Voters": 0,
+                    "NonVoters": 131,
+                    "Eligible": 131,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Film and Creative Writing",
+                    "Voters": 0,
+                    "NonVoters": 382,
+                    "Eligible": 382,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Finance",
+                    "Voters": 0,
+                    "NonVoters": 259,
+                    "Eligible": 259,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Geography",
+                    "Voters": 0,
+                    "NonVoters": 813,
+                    "Eligible": 813,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Golf Studies",
+                    "Voters": 0,
+                    "NonVoters": 706,
+                    "Eligible": 706,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Health Services Management Cen",
+                    "Voters": 0,
+                    "NonVoters": 792,
+                    "Eligible": 792,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "HEFi",
+                    "Voters": 0,
+                    "NonVoters": 13,
+                    "Eligible": 13,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "History",
+                    "Voters": 0,
+                    "NonVoters": 836,
+                    "Eligible": 836,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Applied Health Res",
+                    "Voters": 0,
+                    "NonVoters": 259,
+                    "Eligible": 259,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Cancer / Genomic Sci",
+                    "Voters": 0,
+                    "NonVoters": 302,
+                    "Eligible": 302,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Card Sciences",
+                    "Voters": 0,
+                    "NonVoters": 56,
+                    "Eligible": 56,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Immunol + Immunoth",
+                    "Voters": 0,
+                    "NonVoters": 112,
+                    "Eligible": 112,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Inflammation / Ageing",
+                    "Voters": 0,
+                    "NonVoters": 80,
+                    "Eligible": 80,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Metabolism and Sys Res",
+                    "Voters": 0,
+                    "NonVoters": 44,
+                    "Eligible": 44,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Inst of Microb and Infection",
+                    "Voters": 0,
+                    "NonVoters": 27,
+                    "Eligible": 27,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Institute of Clinical Sciences",
+                    "Voters": 0,
+                    "NonVoters": 9,
+                    "Eligible": 9,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "International Development",
+                    "Voters": 0,
+                    "NonVoters": 398,
+                    "Eligible": 398,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Law",
+                    "Voters": 0,
+                    "NonVoters": 1956,
+                    "Eligible": 1956,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Liberal Arts & Natural Science",
+                    "Voters": 0,
+                    "NonVoters": 411,
+                    "Eligible": 411,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Management",
+                    "Voters": 0,
+                    "NonVoters": 2351,
+                    "Eligible": 2351,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Marketing",
+                    "Voters": 0,
+                    "NonVoters": 269,
+                    "Eligible": 269,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Mathematics",
+                    "Voters": 0,
+                    "NonVoters": 1772,
+                    "Eligible": 1772,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "MDS - College Hub",
+                    "Voters": 0,
+                    "NonVoters": 6,
+                    "Eligible": 6,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Mechanical Engineering",
+                    "Voters": 0,
+                    "NonVoters": 870,
+                    "Eligible": 870,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Metallurgy & Materials",
+                    "Voters": 0,
+                    "NonVoters": 508,
+                    "Eligible": 508,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Modern Languages",
+                    "Voters": 0,
+                    "NonVoters": 555,
+                    "Eligible": 555,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Music",
+                    "Voters": 0,
+                    "NonVoters": 195,
+                    "Eligible": 195,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Nursing and Midwifery",
+                    "Voters": 0,
+                    "NonVoters": 915,
+                    "Eligible": 915,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "People and Organisational Deve",
+                    "Voters": 0,
+                    "NonVoters": 50,
+                    "Eligible": 50,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Pharmacy",
+                    "Voters": 0,
+                    "NonVoters": 548,
+                    "Eligible": 548,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Philosophy",
+                    "Voters": 0,
+                    "NonVoters": 386,
+                    "Eligible": 386,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Physics & Astronomy",
+                    "Voters": 0,
+                    "NonVoters": 777,
+                    "Eligible": 777,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Physiotherapy",
+                    "Voters": 0,
+                    "NonVoters": 404,
+                    "Eligible": 404,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Political Sci & Intern'tl Stud",
+                    "Voters": 0,
+                    "NonVoters": 910,
+                    "Eligible": 910,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "School of Biosciences",
+                    "Voters": 0,
+                    "NonVoters": 1344,
+                    "Eligible": 1344,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "School of Education",
+                    "Voters": 0,
+                    "NonVoters": 97,
+                    "Eligible": 97,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "School of Psychology",
+                    "Voters": 0,
+                    "NonVoters": 1681,
+                    "Eligible": 1681,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Shakespeare Institute",
+                    "Voters": 0,
+                    "NonVoters": 146,
+                    "Eligible": 146,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Soc Policy, Sociology & Crimin",
+                    "Voters": 0,
+                    "NonVoters": 865,
+                    "Eligible": 865,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Social Work & Social Care",
+                    "Voters": 0,
+                    "NonVoters": 348,
+                    "Eligible": 348,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Sport, Ex and Rehab Sciences",
+                    "Voters": 0,
+                    "NonVoters": 1026,
+                    "Eligible": 1026,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Strategy and Int Business",
+                    "Voters": 0,
+                    "NonVoters": 283,
+                    "Eligible": 283,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Teacher Education",
+                    "Voters": 0,
+                    "NonVoters": 550,
+                    "Eligible": 550,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Theology and Religion",
+                    "Voters": 0,
+                    "NonVoters": 299,
+                    "Eligible": 299,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Urdang Academy",
+                    "Voters": 0,
+                    "NonVoters": 119,
+                    "Eligible": 119,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Wiley",
+                    "Voters": 0,
+                    "NonVoters": 617,
+                    "Eligible": 617,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        }
+    ],
+    "Turnout": 0.0
+}
